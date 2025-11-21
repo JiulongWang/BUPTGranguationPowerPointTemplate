@@ -6,4 +6,9 @@
 
 如果你对我的毕设感兴趣可以看看[这个仓库](https://github.com/JiulongWang/snn-am)。
 
+
 2023.06.05
+
+[更适合果园同学的模版](https://github.com/Guest-Liang/BUPTGranguationSlidesTemplate-International)
+
+2025.11.21
